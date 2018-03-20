@@ -11,26 +11,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="project_2012-07-27_2012-10-10_performancedata.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/workspace/input/project_2012-07-27_2012-10-10_performancedata.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="project_2012-07-27_2012-10-10_performancedata_0.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/workspace/output/project_2012-07-27_2012-10-10_performancedata_0.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="float.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/float.rb">
           <provider selected="true" editor-type-id="text-editor">
@@ -96,11 +76,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="combine_values.rb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="combine_values.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/combine_values.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="496">
-              <caret line="87" column="3" lean-forward="false" selection-start-line="87" selection-start-column="3" selection-end-line="87" selection-end-column="3" />
+            <state relative-caret-position="51">
+              <caret line="18" column="22" lean-forward="true" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="combiner.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/combiner.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="40" column="10" lean-forward="true" selection-start-line="40" selection-start-column="10" selection-end-line="40" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fixture.csv.sorted" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spec/fixture.csv.sorted">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="enum.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/enum.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -120,6 +130,7 @@
         <option value="$PROJECT_DIR$/modifier.rb" />
         <option value="$PROJECT_DIR$/lib/modifier.rb" />
         <option value="$PROJECT_DIR$/lib/combine_values.rb" />
+        <option value="$PROJECT_DIR$/test/enum.rb" />
       </list>
     </option>
   </component>
@@ -161,7 +172,7 @@
             <path>
               <item name="ruby_challenge" type="b2602c69:ProjectViewProjectNode" />
               <item name="ruby_challenge" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -208,12 +219,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1521556210112</updated>
-      <workItem from="1521556211376" duration="2109000" />
+      <workItem from="1521556211376" duration="2424000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2109000" />
+    <option name="totallyTimeSpent" value="2424000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -321,8 +332,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/combine_values.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="496">
-          <caret line="87" column="3" lean-forward="false" selection-start-line="87" selection-start-column="3" selection-end-line="87" selection-end-column="3" />
+        <state relative-caret-position="51">
+          <caret line="18" column="22" lean-forward="true" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/spec_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/combiner.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="40" column="10" lean-forward="true" selection-start-line="40" selection-start-column="10" selection-end-line="40" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/fixture.csv.sorted">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/enum.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
         </state>
       </provider>
