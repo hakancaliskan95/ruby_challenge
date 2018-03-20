@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7159c551-f01d-41af-b40e-e220ec6ec1d3" name="Default" comment="" />
+    <list default="true" id="7159c551-f01d-41af-b40e-e220ec6ec1d3" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/modifier.rb" afterPath="$PROJECT_DIR$/modifier.rb" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,11 +43,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="string.rb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="string.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/string.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="4" column="3" lean-forward="false" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+              <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="modifier.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/modifier.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -61,6 +73,7 @@
       <list>
         <option value="$PROJECT_DIR$/lib/float.rb" />
         <option value="$PROJECT_DIR$/lib/string.rb" />
+        <option value="$PROJECT_DIR$/modifier.rb" />
       </list>
     </option>
   </component>
@@ -107,19 +120,7 @@
             <path>
               <item name="ruby_challenge" type="b2602c69:ProjectViewProjectNode" />
               <item name="ruby_challenge" type="462c0819:PsiDirectoryNode" />
-              <item name="workspace" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ruby_challenge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ruby_challenge" type="462c0819:PsiDirectoryNode" />
-              <item name="workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="input" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ruby_challenge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ruby_challenge" type="462c0819:PsiDirectoryNode" />
-              <item name="workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="output" type="462c0819:PsiDirectoryNode" />
+              <item name="spec" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -166,12 +167,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1521556210112</updated>
-      <workItem from="1521556211376" duration="1123000" />
+      <workItem from="1521556211376" duration="1442000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1123000" />
+    <option name="totallyTimeSpent" value="1442000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -235,7 +236,15 @@
     <entry file="file://$PROJECT_DIR$/lib/string.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="3" lean-forward="false" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modifier.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding />
         </state>
       </provider>
