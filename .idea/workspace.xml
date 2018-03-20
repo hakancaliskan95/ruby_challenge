@@ -53,12 +53,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="modifier.rb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="modifier.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/modifier.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <state relative-caret-position="204">
+              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="file_handler.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/file_handler.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="901">
+              <caret line="84" column="15" lean-forward="true" selection-start-line="84" selection-start-column="15" selection-end-line="84" selection-end-column="15" />
+              <folding>
+                <element signature="e#460#836#0" expanded="false" />
+                <element signature="e#841#890#0" expanded="false" />
+                <element signature="e#895#1040#0" expanded="false" />
+                <element signature="e#1046#1224#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -73,6 +88,7 @@
       <list>
         <option value="$PROJECT_DIR$/lib/float.rb" />
         <option value="$PROJECT_DIR$/lib/string.rb" />
+        <option value="$PROJECT_DIR$/lib/file_handler.rb" />
         <option value="$PROJECT_DIR$/modifier.rb" />
       </list>
     </option>
@@ -167,12 +183,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1521556210112</updated>
-      <workItem from="1521556211376" duration="1442000" />
+      <workItem from="1521556211376" duration="1755000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1442000" />
+    <option name="totallyTimeSpent" value="1755000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -243,9 +259,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/modifier.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        <state relative-caret-position="204">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/file_handler.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="84" column="15" lean-forward="true" selection-start-line="84" selection-start-column="15" selection-end-line="84" selection-end-column="15" />
+          <folding>
+            <element signature="e#460#836#0" expanded="false" />
+            <element signature="e#841#890#0" expanded="false" />
+            <element signature="e#895#1040#0" expanded="false" />
+            <element signature="e#1046#1224#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
